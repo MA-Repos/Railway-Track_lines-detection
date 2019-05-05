@@ -2,9 +2,12 @@
 Detect Railway track lines using Canny Edges and HoughLines
 
 Input Image:
+
 ![cmu0](railway_track.jpg)
 
+
 Output Image:
+
 ![cmu0](detected_lines.jpg)
 
 Python libraries Required:
